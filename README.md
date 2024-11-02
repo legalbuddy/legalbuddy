@@ -18,6 +18,13 @@ Below is a detailed view of the health indicators for various services across th
 | api.drm          | ![Website](https://img.shields.io/website?url=https://api.drm.legalbuddy.in/api/v1) | ![Website](https://img.shields.io/website?url=https://api.drm.ellbee.tech/api/v1)       | |
 | drm              | ![Website](https://img.shields.io/website?url=https://drm.legalbuddy.in)               | ![Website](https://img.shields.io/website?url=https://drm.ellbee.tech)               | |
 
+| tech@legalbuddy.in                                                                                                                                                     	|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| ![Email Quota](https://img.shields.io/endpoint?url=https://script.google.com/macros/s/AKfycbxPDJ9WtrM1cZZkKg6_DZuJ2KtbFjBKJhoTUjH2bhUqdq04RkFltSxobsQuv5LmIuIZ_g/exec) 	|
+
+
 ---
 
 Feel free to reach out for any further assistance or queries regarding the services.
+
+
