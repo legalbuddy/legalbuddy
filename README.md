@@ -17,6 +17,7 @@ Below is a detailed view of the health indicators for various services across th
 | clm              | ![Website](https://img.shields.io/website?url=https://clm.legalbuddy.in)               | ![Website](https://img.shields.io/website?url=https://clm.empanelment.in)               | ![Website](https://img.shields.io/website?url=https://clm.mku.com)               |
 | api.drm          | ![Website](https://img.shields.io/website?url=https://api.drm.legalbuddy.in/api/v1) | ![Website](https://img.shields.io/website?url=https://api.drm.empanelment.in/api/v1)       | |
 | drm              | ![Website](https://img.shields.io/website?url=https://drm.legalbuddy.in)               | ![Website](https://img.shields.io/website?url=https://drm.empanelment.in)               | |
+| storybook |  | ![Website](https://img.shields.io/website?url=https://storybook.empanelment.in) | |
 
 | tech@legalbuddy.in                                                                                                                                                     	|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
