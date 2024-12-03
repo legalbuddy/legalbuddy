@@ -19,7 +19,7 @@ Below is a detailed view of the health indicators for various services across th
 | drm              | ![Website](https://img.shields.io/website?url=https://drm.legalbuddy.in)               | ![Website](https://img.shields.io/website?url=https://drm.empanelment.in)               | |
 | storybook |  | ![Website](https://img.shields.io/website?url=https://storybook.empanelment.in) | |
 
-| tech@legalbuddy.in                                                                                                                                                     	|
+|GAS: tech@legalbuddy.in                                                                                                                                                     	|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | ![Email Quota](https://img.shields.io/endpoint?url=https://script.google.com/macros/s/AKfycbxPDJ9WtrM1cZZkKg6_DZuJ2KtbFjBKJhoTUjH2bhUqdq04RkFltSxobsQuv5LmIuIZ_g/exec) 	|
 
