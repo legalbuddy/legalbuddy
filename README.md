@@ -32,7 +32,7 @@ Below is a detailed view of the health indicators for various services across th
 | Service          | tech@legalbuddy.in |
 |------------------|--------------------|
 |GAS|![Email Quota](https://img.shields.io/endpoint?url=https://script.google.com/macros/s/AKfycbxPDJ9WtrM1cZZkKg6_DZuJ2KtbFjBKJhoTUjH2bhUqdq04RkFltSxobsQuv5LmIuIZ_g/exec)|
-|SMTP|![Email Quota](https://img.shields.io/endpoint?url=https://api.master.legalbuddy.in/api/v1/smtp-status)|
+|SMTP|![Email Quota](https://img.shields.io/endpoint?url=https://api.master.empanelment.in/api/v1/smtp-status)|
 
 
 
