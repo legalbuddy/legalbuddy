@@ -24,6 +24,7 @@ Below is a detailed view of the health indicators for various services across th
 |------------------|--------------------|
 |GAS|![Email Quota](https://img.shields.io/endpoint?url=https://script.google.com/macros/s/AKfycbxPDJ9WtrM1cZZkKg6_DZuJ2KtbFjBKJhoTUjH2bhUqdq04RkFltSxobsQuv5LmIuIZ_g/exec)|
 |SMTP|![Email Quota](https://img.shields.io/endpoint?url=https://api.master.legalbuddy.in/api/v1/smtp-status)|
+|PDF|![PDF](https://img.shields.io/endpoint?url=https://api.master.legalbuddy.in/api/v1/smtp-status)|
 
 
 
