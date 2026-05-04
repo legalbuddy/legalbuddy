@@ -6,7 +6,7 @@ Legal Buddy India Private Limited is an Indian Company incorporated under the pr
 
 ## 🌐 Platform Services
 
-| Service      | legalbuddy.in | empanelment.in | mku.com |
+| Service      | [legalbuddy.in](http://legalbuddy.in) | [empanelment.in](http://empanelment.in) | [mku.com](http://mku.com) |
 |--------------|--------------|---------------|---------|
 | auth-api | ![Website](https://img.shields.io/website?url=https://auth-api.legalbuddy.in/api/v1) | ![Website](https://img.shields.io/website?url=https://auth-api.empanelment.in/api/v1) | |
 | auth | ![Website](https://img.shields.io/website?url=https://auth.legalbuddy.in) | ![Website](https://img.shields.io/website?url=https://auth.empanelment.in) | ![Website](https://img.shields.io/website?url=https://auth.mku.com) |
@@ -18,6 +18,8 @@ Legal Buddy India Private Limited is an Indian Company incorporated under the pr
 | clm | ![Website](https://img.shields.io/website?url=https://clm.legalbuddy.in) | ![Website](https://img.shields.io/website?url=https://clm.empanelment.in) | ![Website](https://img.shields.io/website?url=https://clm.mku.com) |
 | drm-api | ![Website](https://img.shields.io/website?url=https://drm-api.legalbuddy.in/api/v1) | ![Website](https://img.shields.io/website?url=https://drm-api.empanelment.in/api/v1) | |
 | drm | ![Website](https://img.shields.io/website?url=https://drm.legalbuddy.in) | ![Website](https://img.shields.io/website?url=https://drm.empanelment.in) | |
+| will-api | ![Website](https://img.shields.io/website?url=https://will-api.legalbuddy.in/api/v1) | ![Website](https://img.shields.io/website?url=https://will-api.empanelment.in/api/v1) | |
+| will | ![Website](https://img.shields.io/website?url=https://will.legalbuddy.in) | ![Website](https://img.shields.io/website?url=https://will.empanelment.in) | |
 | storybook |  | ![Website](https://img.shields.io/website?url=https://storybook.empanelment.in) | |
 
 ---
