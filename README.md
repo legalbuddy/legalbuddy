@@ -29,7 +29,7 @@ Legal Buddy India Private Limited is an Indian Company incorporated under the pr
 | Service | [tech@legalbuddy.in](mailto:tech@legalbuddy.in) |
 |---|---|
 | **SMTP** | ![](https://img.shields.io/endpoint?url=https://master-api.legalbuddy.in/api/v1/smtp-status&style=flat-square&logo=maildotru&logoColor=white&label=Quota) |
-| **PDF** | ![](https://img.shields.io/endpoint?url=https://master-api.legalbuddy.in/api/v1/document-pipeline-status&style=flat-square&logo=adobeacrobatreader&logoColor=white&label=Engine) |
+| **FILE** | ![](https://img.shields.io/endpoint?url=https://master-api.legalbuddy.in/api/v1/document-pipeline-status&style=flat-square&logo=adobeacrobatreader&logoColor=white&label=Engine) |
 ---
 
 
